@@ -9,6 +9,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/)
 - ⚡ Fun fact: Magic cube completed in 45s (so far!)
 
-![](https://komarev.com/ghpvc/?username=cassiorsfreitas&color=green)
+![](https://komarev.com/ghpvc/?username=cassiorsfreitas&color=green) ![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiorsfreitas)](https://github.com/cassiorsfreitas)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiorsfreitas&layout=compact)](https://github.com/cassiorsfreitas)
