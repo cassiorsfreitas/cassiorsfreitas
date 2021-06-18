@@ -1,7 +1,6 @@
 ### Hi there! 👋
 
 
-- 🔭 I’m currently working on [Blue Ocean App](https://github.com/cassiorsfreitas/blue-ocean-app)
 - 💬 Ask me about anything [here](https://github.com/cassiorsfreitas/cassiorsfreitas/issues)
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/)
