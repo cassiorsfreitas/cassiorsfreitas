@@ -2,7 +2,7 @@
 
 
 - 💬 Ask me about anything [here](https://github.com/cassiorsfreitas/cassiorsfreitas/issues)
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Next JS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/)
 - ⚡ Fun fact: Magic cube completed in 45s (so far!)
 
