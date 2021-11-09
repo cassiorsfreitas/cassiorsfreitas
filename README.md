@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
 
-- 💬 Ask me about anything [here](https://github.com/cassiorsfreitas/cassiorsfreitas/issues)
-- 🌱 I’m currently learning Next JS
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/)
-- ⚡ Fun fact: Magic cube completed in 45s (so far!)
+💬 &nbsp; Ask me about anything [here](https://github.com/cassiorsfreitas/cassiorsfreitas/issues) <br>
+🌱 &nbsp; I’m currently learning Next JS <br>
+📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/) <br>
+⚡  &nbsp; Fun fact: Magic cube completed in 45s (so far!) <br>
 
 ![](https://komarev.com/ghpvc/?username=cassiorsfreitas&color=green) ![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
