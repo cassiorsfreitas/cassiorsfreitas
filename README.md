@@ -14,6 +14,7 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [SSG, SPA and SSR. Pick one!](https://cassiorsfreitas.com/ssg-spa-and-ssr-pick-one)
 - [Desmistificando o Google Cloud Plataform](https://cassiorsfreitas.com/desmitificando-o-google-cloud-plataform)
 - [O poder de uma simples página de login](https://cassiorsfreitas.com/o-poder-de-uma-simples-pagina-de-login)
 - [SEO: peça chave para o seu negócio](https://cassiorsfreitas.com/seo-peca-chave-para-o-seu-negocio)
