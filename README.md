@@ -14,6 +14,7 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Hello, Containers](https://cassiorsfreitas.com/hello-containers)
 - [SSG, SPA and SSR. Pick one!](https://cassiorsfreitas.com/ssg-spa-and-ssr-pick-one)
 - [Desmistificando o Google Cloud Plataform](https://cassiorsfreitas.com/desmitificando-o-google-cloud-plataform)
 - [O poder de uma simples página de login](https://cassiorsfreitas.com/o-poder-de-uma-simples-pagina-de-login)
