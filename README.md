@@ -2,7 +2,7 @@
 
 
 💬 &nbsp; Ask me about anything [here](https://github.com/cassiorsfreitas/cassiorsfreitas/issues) <br>
-🌱 &nbsp; I’m currently learning API Integration Tests <br>
+📝 &nbsp; I’m currently writing about API/Integration Testing <br>
 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/) <br>
 ⚡  &nbsp; Fun fact: Magic cube completed in 45s (so far!) <br>
 
