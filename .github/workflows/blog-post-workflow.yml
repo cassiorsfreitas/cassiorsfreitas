@@ -15,4 +15,5 @@ jobs:
       - name: Pull in cassiorsfreitas.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          comment_tag_name: "BLOG"
           feed_list: "https://cassiorsfreitas.com/feed.xml"
