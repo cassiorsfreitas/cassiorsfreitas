@@ -8,6 +8,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Short discussion of frontend tests](https://cassiorsfreitas.com/short-discussion-of-frontend-tests)
+- [My VIM Cheat Sheet](https://cassiorsfreitas.com/vim-cheat-sheet)
+- [Hello, Containers](https://cassiorsfreitas.com/hello-containers)
+- [SSG, SPA and SSR. Pick one!](https://cassiorsfreitas.com/ssg-spa-and-ssr-pick-one)
+- [Desmistificando o Google Cloud Plataform](https://cassiorsfreitas.com/desmistificando-o-google-cloud-plataform)
 <!-- BLOG:END -->
 
 <br>
