@@ -16,4 +16,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://cassiorsfreitas.com/feed.xml"
+          feed_list: "https://cassiorsfreitas.com/rss/feed.xml"
