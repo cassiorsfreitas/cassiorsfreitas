@@ -8,6 +8,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Blog &lpar;NextJS&rpar; + Spotify: sounds good!](https://cassiorsfreitas.com/blog-nextjs-spotify-sounds-good)
+- [Short discussion of frontend tests](https://cassiorsfreitas.com/short-discussion-of-frontend-tests)
+- [My VIM Cheat Sheet](https://cassiorsfreitas.com/vim-cheat-sheet)
+- [Hello, Containers](https://cassiorsfreitas.com/hello-containers)
+- [SSG, SPA and SSR. Pick one!](https://cassiorsfreitas.com/ssg-spa-and-ssr-pick-one)
 <!-- BLOG:END -->
 
 <br>
