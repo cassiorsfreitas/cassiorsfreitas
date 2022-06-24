@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hey there! 👋
 
 
 📫 &nbsp; You can find me on: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/) <br>
