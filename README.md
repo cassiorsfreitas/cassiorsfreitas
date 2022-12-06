@@ -3,7 +3,7 @@
 
 📫 &nbsp; You can find me on: [Linkedin](https://www.linkedin.com/in/cassiorsfreitas/) <br>
 ⚡  &nbsp; Fun fact? Magic cube completed in 45s (so far!) <br>
-📝 &nbsp; I’m currently writing about Code Review <br>
+📝 &nbsp; I’m currently writing about Code Review Tips <br>
 
 ### 📕 &nbsp;Latest Blog Posts
 
