@@ -8,11 +8,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [What is tRPC?](https://cassiorsfreitas.com/what-is-trpc)
 - [Communication over the web](https://cassiorsfreitas.com/communication-over-the-web)
 - [Hello, Serverless](https://cassiorsfreitas.com/hello-serverless)
 - [Blog &lpar;NextJS&rpar; + Spotify: sounds good!](https://cassiorsfreitas.com/blog-nextjs-spotify-sounds-good)
 - [Short discussion of frontend tests](https://cassiorsfreitas.com/short-discussion-of-frontend-tests)
-- [My VIM Cheat Sheet](https://cassiorsfreitas.com/vim-cheat-sheet)
 <!-- BLOG:END -->
 
 <br>
