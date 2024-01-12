@@ -8,11 +8,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [3 Key Concepts Foundational to JavaScript](https://cassiorsfreitas.com/blog/3-key-concepts-foundational-to-javaScript)
 - [What is tRPC?](https://cassiorsfreitas.com/blog/what-is-trpc)
 - [Communication over the web](https://cassiorsfreitas.com/blog/communication-over-the-web)
 - [Hello, Serverless](https://cassiorsfreitas.com/blog/hello-serverless)
 - [Blog &lpar;NextJS&rpar; + Spotify: sounds good!](https://cassiorsfreitas.com/blog/blog-nextjs-spotify-sounds-good)
-- [Short discussion of frontend tests](https://cassiorsfreitas.com/blog/frontend-tests)
 <!-- BLOG:END -->
 
 <br>
