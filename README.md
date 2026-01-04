@@ -8,11 +8,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [LDDL: Because "Why Did We Do That Again?" Shouldn't Be a Thing](https://cassiorsfreitas.com/blog/lddl-because-why-did-we-do-that-again-shouldn-t-be-a-thing)
 - [AWS Is Not a Synonym for Technical Maturity](https://cassiorsfreitas.com/blog/aws-is-not-a-synonym-for-technical-maturity)
 - [3 Key Concepts Foundational to JavaScript](https://cassiorsfreitas.com/blog/3-key-concepts-foundational-to-javaScript)
 - [What is tRPC?](https://cassiorsfreitas.com/blog/what-is-trpc)
 - [Communication over the web](https://cassiorsfreitas.com/blog/communication-over-the-web)
-- [Hello, Serverless](https://cassiorsfreitas.com/blog/hello-serverless)
 <!-- BLOG:END -->
 
 <br>
